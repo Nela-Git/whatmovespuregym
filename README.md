@@ -8,12 +8,12 @@ A collection of end-to-end data science projects demonstrating machine learning,
 ![Banner](images/puregym_banner.png)
 
 ## Tech Stack
-### Data Science & Machine Learning
-- Python, Pandas, NumPy, Scikit-learn, TensorFlow / Keras, XGBoost
-
-### Time-Series Forecasting
-- SARIMAX, Random Forest, TimeGPT, PatchTST
+### Programming and data processing
+- Python, Pandas, NumPy
+  
+### Natural Language Processing (NLP)
+- BERTopic, Gensim (LDA Topic Modelling), Hugging Face Transformers, BART-MNLI (Zero-Shot Classification)
 
 **View Notebook in NBViewer:**  
-https://nbviewer.org/urls/raw.githubusercontent.com/Nela-Git/automotive-demand-forecasting/main/notebooks/Automotive_Demand_Forecasting_Git.ipynb
+https://nbviewer.org/urls/raw.githubusercontent.com/Nela-Git/whatmovespuregym/main/notebooks/WhatMovesPureGymUsers.ipynb
 
